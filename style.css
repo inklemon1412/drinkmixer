@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(49, 37, 37);
+}
+
+.drinks1{
+    border: 2px solid sandybrown;
+    width: 300px;
+    color: aliceblue;
+    background-color: rgb(26, 14, 14);
+}
+.results{
+    border: 2px solid darkcyan;
+    width: 300px;
+    color: aliceblue;
+    background-color: rgb(61, 31, 31) ;
+}
+
+
+h1{
+    background-color: antiquewhite;
+    width: 300px;
+   display: flex;
+   justify-content: center;
+   margin-left: 50%;
+}
